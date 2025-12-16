@@ -41,7 +41,7 @@ This is a record of the project I've taken part in
   - For: CS3601
   - About: Finish a Chcore (By filling in code blanks of course) (Not finished)
   - Tech: C, ARM64-OS, ARM64-Assembly
-  - Time Cost: 15h (Up to now)
+  - Time Cost: 26h (Up to now)
   - Interest: 4/10
   - Harvest: 5/10
 
@@ -49,9 +49,9 @@ This is a record of the project I've taken part in
   - For: NIS3353
   - About: Implement some AI-security relevant experiments
   - Tech: python, AI-security
-  - Time Cost: 5h (Up to now)
-  - Interest: 5/10
-  - Harvesr: 3/10
+  - Time Cost: 8h (Up to now)
+  - Interest: 6/10
+  - Harvest: 5/10
 
 - [AI-Practice](https://github.com/Kemmywan/ai3603)
   - For: AI3603
