@@ -41,9 +41,9 @@ This is a record of the project I've taken part in
   - For: CS3601
   - About: Finish a Chcore (By filling in code blanks of course) (Not finished)
   - Tech: C, ARM64-OS, ARM64-Assembly
-  - Time Cost: 26h (Up to now)
-  - Interest: 4/10
-  - Harvest: 5/10
+  - Time Cost: 30h (Up to now)
+  - Interest: 5/10
+  - Harvest: 6/10
 
 - [AI-Security-Lab](https://github.com/Kemmywan/NIS3353-p)
   - For: NIS3353
@@ -60,6 +60,14 @@ This is a record of the project I've taken part in
   - Time Cost: 20h
   - Interest: 7/10
   - Harvest: 5/10
+
+- [AI-Billiards](https://github.com/dzx0902/AI3603-Billiards)
+  - For: AI3603
+  - About: Implement an Agent to play poolgame
+  - Tech: Search-Alg, Physical Modeling
+  - Time Cost: 30h
+  - Interest: 8/10
+  - Harvest: 4/10
 
 - [Flaskr](https://github.com/Kemmywan/myflask)
   - For: Practice
