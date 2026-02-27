@@ -77,3 +77,11 @@ This is a record of the project I've taken part in
   - Interest: 7/10
   - Harvest: 3/10
  
+- [Spring-demo](https://github.com/Kemmywan/spring-demo)
+  - For: Practice
+  - About: A spring-boot app which plans to show calendar animes with comment features
+  - Tech: Java, Jpa-ORM, Spring-boot, html+css
+  - Time Cost: 20h(To be proceeded...)
+  - Interest: 7/10
+  - Harvest: 5/10
+ 
